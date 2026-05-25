@@ -1,0 +1,46 @@
+body{
+    background-color: lightyellow;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    margin: 100px;
+    display:inline-block;
+}
+
+.title{
+    color:lightyellow;
+    font-family: sans-serif;
+}
+.container{
+    background-color: navy;
+    padding: 50px;
+    margin-top:0;
+}
+.pasta{
+    background-color: green;
+    padding:100px;
+}
+.pizza{
+    background-color: white;
+    padding: 100px;
+}
+.hotdog{
+    background-color: red;
+    padding: 100px;
+}
+.green{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
+.white{
+    color: gold;
+    font-size: 50px;
+    text-decoration: none;
+}
+.red{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}

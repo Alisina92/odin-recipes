@@ -1,0 +1,33 @@
+body {
+    background-color: lemonchiffon;
+}
+.container{
+    margin-left: 500px;
+    margin-right:500px;
+    padding: 15px;
+    background-color: white;
+    
+}
+.home{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+
+}
+.title{
+    color: green;
+}
+.img{
+    border: 5px dotted green;
+    width: 250px; 
+    height: 250px;
+}
+
+.para{
+    font-size: 17px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.list{
+    font-size: 15px;
+}

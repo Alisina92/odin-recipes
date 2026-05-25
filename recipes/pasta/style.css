@@ -1,0 +1,35 @@
+body{
+    background-color:navy;
+}
+.container{
+    border: 1px solid;
+    background-color: lightblue;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+}
+
+.homebtn{
+    background-color: yellow;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.h1{
+    color: navy;
+}
+.h2{
+    color: red;
+}
+
+.h3{
+    color:palevioletred;
+}
+.img{
+    border: 5px dotted red;
+    width:250px; 
+    height:250px;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+}
